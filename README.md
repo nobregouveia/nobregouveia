@@ -8,7 +8,7 @@ class SobreMim extends Desenvolvedor {
 }
 class Skills extends Desenvolvedor {
   linguagens  = [PHP, JavaScript, Html, Css, SQL Server, MySQL];
-  aprendendo = [C#, React]
+  aprendendo = [JAVA, Spring, React]
   bibliotecas  = ['Jquery, React'];
   frameworks = ['Vue, Ionic, Laravel, CodeIgniter'];
 }
