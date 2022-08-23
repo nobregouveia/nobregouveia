@@ -21,7 +21,7 @@ class Skills extends Desenvolvedor {
   <a href="https://www.linkedin.com/in/andrenobregouveia/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrenobregouveia/" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5583998395709" target="_blank" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5583998395709" target="blank" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5583998395709"/></a>
  
   <a href="https://www.instagram.com/nobregouveia/" alt="Instagram" target="_blank">
