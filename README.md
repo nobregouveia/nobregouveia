@@ -5,7 +5,7 @@ class SobreMim extends Desenvolvedor {
   nome     = 'André Gouveia';
   area     = 'Full Stack Developer';
   foco     = 'Backend · APIs REST · SaaS Multi-tenant';
-  trabalho = 'Capgemini SA';
+  trabalho = 'Joinner Sistemas';
   local    = 'São Paulo (Remote ;D)';
 }
 
