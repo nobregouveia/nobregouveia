@@ -1,16 +1,23 @@
 ```js
-import Desenvolvedor from 'nobregouveia';
+ import Desenvolvedor from 'nobregouveia';
+
 class SobreMim extends Desenvolvedor {
   nome     = 'André Gouveia';
-  area    = 'Full Stack Developer';
-  trabalho  = 'Capgemini SA';
-  local = 'Salvador (Remote ;D)';
+  area     = 'Full Stack Developer';
+  foco     = 'Backend · APIs REST · SaaS Multi-tenant';
+  trabalho = 'Capgemini SA';
+  local    = 'São Paulo (Remote ;D)';
 }
+
 class Skills extends Desenvolvedor {
-  linguagens  = [PHP, JavaScript, Html, Css, SQL Server, MySQL];
-  aprendendo = [JAVA, Spring, React]
-  bibliotecas  = ['Jquery, React'];
-  frameworks = ['Vue, Ionic, Laravel, CodeIgniter'];
+  linguagens   = ['PHP', 'JavaScript', 'HTML', 'CSS', 'SQL'];
+  frameworks   = ['Laravel', 'Vue', 'Nuxt', 'Ionic', 'CodeIgniter'];
+  bibliotecas  = ['Nuxt UI', 'Sanctum', 'Horizon', 'stancl/tenancy', 'jQuery'];
+  bancos       = ['PostgreSQL', 'MySQL', 'SQL Server', 'Redis'];
+  arquitetura  = ['DDD', 'Repository Pattern', 'Multi-tenancy', 'Row Level Security', 'ADRs'];
+  qualidade    = ['Pest', 'Larastan nível 10', 'Mutation Testing', 'Playwright', 'k6', 'Pint'];
+  devops       = ['Linux', 'GitHub Actions', 'Cloudflare', 'Sentry'];
+  aprendendo   = ['Java', 'Spring', 'React'];
 }
 ```
 
